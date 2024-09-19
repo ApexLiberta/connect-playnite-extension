@@ -1,0 +1,1 @@
+# connect-playnite-extension
